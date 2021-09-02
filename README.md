@@ -1,1 +1,2 @@
-# test_project
+# GitHub Pages for seomisaki.online
+
