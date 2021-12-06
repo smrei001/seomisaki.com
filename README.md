@@ -1,2 +1,2 @@
-# GitHub Pages for seomisaki.online
+# GitHub Pages for seomisaki.com
 
